@@ -116,7 +116,7 @@ echo "<script type='text/javascript'> document.location = 'index.php'; </script>
                                     <div class="text-center account-logo-box">
                                         <h2 class="text-uppercase">
                                             <a href="index.php" class="text-success">
-                                                <span><img src="assets/images/logo_2.png" alt="" height="56"></span>
+                                                <span><img src="images/logo_2.png" alt="" height="56"></span>
                                             </a>
                                         </h2>
                                         <!--<h4 class="text-uppercase font-bold m-b-0">Sign In</h4>-->

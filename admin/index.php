@@ -77,7 +77,7 @@ echo "<script>alert('Invalid Details');</script>";
                             <div class="account-logo-box">
                                 <h2 class="text-uppercase">
                                     <a href="index.php" class="text-success">
-                                        <span><img src="assets/images/logo_2.png" alt="" width="350px"></span>
+                                        <span><img src="images/logo_2.png" alt="" width="350px"></span>
                                     </a>
                                 </h2>
                                 <p>Please sign-in to your account and start the adventure</p>

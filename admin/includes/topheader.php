@@ -82,7 +82,7 @@
 
                 <a href="index.php" class="logo">
                     <span>
-                        <img src="assets/images/logo_2.png" alt="" height="60">
+                        <img src="images/logo_2.png" alt="" height="60">
                     </span>
 
                 </a>
