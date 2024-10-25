@@ -1,11 +1,3 @@
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : https://developerrony.com
--->
 <footer class="foot text-center" style=" position: sticky;
   top: 0;">
     <?php echo date('Y');?> © Design and Developed by
@@ -17,15 +9,6 @@
 <script>
 var resizefunc = [];
 </script>
-<!-- jQuery  -->
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : https://developerrony.com 
--->
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bts.js"></script>
 
@@ -36,21 +19,12 @@ var resizefunc = [];
 <script src="assets/js/jquery.slimscroll.js"></script>
 <script src="assets/js/jquery.scrollTo.min.js"></script>
 <script src="../plugins/switchery/switchery.min.js"></script>
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : https://developerrony.com 
--->
 <script src="assets/js/jquery.core.js"></script>
 <script src="assets/js/jquery.app.js"></script>
 
 <script src="../plugins/summernote/summernote.min.js"></script>
 <!-- Select 2 -->
 <script src="../plugins/select2/js/select2.min.js"></script>
-
 <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
@@ -111,14 +85,6 @@ function googleTranslateElementInit() {
     }, 'google_translate_element');
 }
 </script>
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
 <style>
 .goog-logo-link {
     display: none !important;
@@ -142,22 +108,5 @@ function googleTranslateElementInit() {
     right: 100px;
 }
 </style>
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
 </body>
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
-
 </html>

@@ -121,14 +121,6 @@ echo "<script type='text/javascript'> document.location = 'index.php'; </script>
                                         </h2>
                                         <!--<h4 class="text-uppercase font-bold m-b-0">Sign In</h4>-->
                                     </div>
-                                    <!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
                                     <div class="account-content">
                                         <form class="form-horizontal" method="post">
 

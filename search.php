@@ -1,11 +1,3 @@
-<!--  Author Name: Nguyễn Đình Duy.
-                        GigHub Link: https://github.com/dev-mhrony
-                        Facebook Link:https://www.facebook.com/dev.mhrony
-                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-                        Visit My Website : developerrony.com -->
-
-
 <?php 
 session_start();
 error_reporting(0);
@@ -23,8 +15,8 @@ include('includes/config.php');
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <title>Live News Portal | Search Page</title>
-
+    <title>AI Group  | Search Page</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -34,12 +26,6 @@ include('includes/config.php');
 </head>
 
 <body>
-    <!--  Author Name: Nguyễn Đình Duy.
-                        GigHub Link: https://github.com/dev-mhrony
-                        Facebook Link:https://www.facebook.com/dev.mhrony
-                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-                        Visit My Website : developerrony.com -->
     <!-- Navigation -->
     <?php include('includes/header.php');?>
 
@@ -59,11 +45,6 @@ include('includes/config.php');
 $st=$_SESSION['searchtitle']=$_POST['searchtitle'];
 }
 $st;
-             
-
-
-
-
      if (isset($_GET['pageno'])) {
             $pageno = $_GET['pageno'];
         } else {
@@ -91,13 +72,6 @@ while ($row=mysqli_fetch_array($query)) {
 
 
 ?>
-                <!--  Author Name: Nguyễn Đình Duy.
-GigHub Link: https://github.com/dev-mhrony
-Facebook Link:https://www.facebook.com/dev.mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-Visit My Website : developerrony.com -->
-
                 <div class="card mb-4">
                     <img class="card-img-top" src="admin/postimages/<?php echo htmlentities($row['PostImage']);?>" alt="<?php echo htmlentities($row['posttitle']);?>">
                     <div class="card-body">
@@ -123,20 +97,7 @@ Visit My Website : developerrony.com -->
                     <li class="page-item"><a href="?pageno=<?php echo $total_pages; ?>" class="page-link">Last</a></li>
                 </ul>
                 <?php } ?>
-
-
-
-
                 <!-- Pagination -->
-
-                <!--  Author Name: Nguyễn Đình Duy.
-                        GigHub Link: https://github.com/dev-mhrony
-                        Facebook Link:https://www.facebook.com/dev.mhrony
-                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-                        Visit My Website : developerrony.com -->
-
-
             </div>
 
             <!-- Sidebar Widgets Column -->
@@ -149,24 +110,10 @@ Visit My Website : developerrony.com -->
 
     <!-- Footer -->
     <?php include('includes/footer.php');?>
-    <!--  Author Name: Nguyễn Đình Duy.
-                        GigHub Link: https://github.com/dev-mhrony
-                        Facebook Link:https://www.facebook.com/dev.mhrony
-                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-                        Visit My Website : developerrony.com -->
-
     <script src="js/foot.js"></script>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!--  Author Name: Nguyễn Đình Duy.
-                        GigHub Link: https://github.com/dev-mhrony
-                        Facebook Link:https://www.facebook.com/dev.mhrony
-                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-                        Visit My Website : developerrony.com -->
     </head>
 </body>
 

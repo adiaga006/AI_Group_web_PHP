@@ -1,26 +1,8 @@
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
 <!DOCTYPE html>
 <html lang="en">
-<!--  
-  Author Name: Nguyễn Đình Duy.
-  GigHub Link: https://github.com/dev-mhrony
-  Facebook Link:https://www.facebook.com/dev.mhrony
-  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-  for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
-  Visit My Website : developerrony.com 
--->
-
 <head>
     <title>Live News Portal By Nguyễn Đình Duy.</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
-
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/core.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/components.css" rel="stylesheet" type="text/css" />

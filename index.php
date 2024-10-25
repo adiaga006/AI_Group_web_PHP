@@ -11,30 +11,24 @@ include('includes/config.php');
     <meta name="description" content="Scientific Group Homepage">
     <meta name="author" content="Your Name">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <title>Scientific Group | Home</title>
-    
+    <title>AI Group | Home</title>
     <!-- Google Web Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Red+Rose:wght@600;700&display=swap" rel="stylesheet">
-    
     <!-- Bootstrap CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
     <!-- Custom styles for this template -->
     <link href="vendor/bootstrap/css/custom.css" rel="stylesheet">
-    
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="css/modern-business.css">
     <link rel="stylesheet" href="css/icons.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 </head>
-</head>
-
 <body>
     <!-- Navigation -->
     <?php include('includes/header.php'); ?>
-
 <!-- Slide Section (Carousel with Fixed Image Height) -->
 <div class="container-fluid header-carousel px-0 mb-5">
     <div id="groupCarousel" class="carousel slide" data-ride="carousel" data-interval="1500" data-pause="hover">
@@ -59,7 +53,6 @@ include('includes/config.php');
         </a>
     </div>
 </div>
-
     <!-- Group Introduction Section -->
     <section class="container mt-5">
         <h2 class="text-center">About Our Scientific Group</h2>
@@ -93,10 +86,8 @@ include('includes/config.php');
             </div>
         </div>
     </section>
-
     <!-- Footer -->
     <?php include('includes/footer.php'); ?>
-
     <!-- JavaScript Libraries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -104,5 +95,4 @@ include('includes/config.php');
     <script src="lib/wow/wow.min.js"></script>
     <script src="js/main.js"></script>
 </body>
-
 </html>
